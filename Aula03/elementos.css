@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+h1{
+    text-shadow: 5px 5px 5px palevioletred;
+    /*px1 e px2 podem usar -, que faz a sombra ficar na esquerda/encima*/
+}
+h2{
+    text-shadow: 5px 5px 5px palevioletred;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: justify;
+    color: rgb(255, 255, 255);
+}
+.texto{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+    color: rgb(255, 143, 180);
+    text-align: justify;  
+}
+.titulo1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: rgb(255, 143, 180);
+    text-align: center;
+}
+.titulo2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: palevioletred;
+    text-align: center;
+}
+.texto2{
+    font-size: 25px;
+    color: pink;
+}
+.texto3{
+    font-size: 15px;
+}
+.texto4{
+    color: pink;
+}
